@@ -1,0 +1,10 @@
+.example-container {
+    display: flex;
+    flex-direction: column;
+    max-height: 500px;
+    min-width: 300px;
+  }
+  
+  body {
+    padding-top: 3.5rem;
+  }
